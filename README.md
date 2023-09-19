@@ -1,4 +1,5 @@
 <img align="right" alt="coding" width="1000" src="https://miro.medium.com/v2/resize:fit:1400/1*mB6YLIGqIk1hTzU6Fb12zQ.gif">
+<br>
 # 💫 About Me:
 🔭 I’m currently working on Flutter<br>👯 I’m looking to collaborate on Flutter<br>🤝 I’m looking for help with web<br>🌱 I’m currently learning web<br>
 
